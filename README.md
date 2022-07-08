@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RajulPE
 - 💻 Currenly studying Computer Science and Engineering from Collage of Engineering Trivandrum.
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me - rajulpe001@gmail.com
 
 <!---
